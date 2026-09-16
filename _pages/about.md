@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About"
+title: "Yusong Liu"
 author_profile: true
 redirect_from: 
   - /about/
