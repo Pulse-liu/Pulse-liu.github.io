@@ -1,10 +1,11 @@
 ---
-layout: about
 permalink: /
-title: <strong>Yusong Liu</strong>
-description: <a href="https://www.nenu.edu.cn/">Northeast Normal University</a>
+title: "Yusong Liu"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
 ---
-
 # About me
 
 I am a Master's student in **Electronic Information** at the [School of Physics](https://www.nenu.edu.cn/), **Northeast Normal University**, supervised by Prof. Cheng Zhou and Prof. Jipeng Huang. I received my B.Eng. in Electronic Information Engineering from **Chengdu University of Information Technology** in 2022.
@@ -33,4 +34,3 @@ I have published 2 SCI-indexed papers in *Optics and Lasers in Engineering* and 
 
 - Email: liuys@nenu.edu.cn
 - GitHub: [Pulse-liu](https://github.com/Pulse-liu)
-```
