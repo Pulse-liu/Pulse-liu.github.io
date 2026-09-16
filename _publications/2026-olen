@@ -1,0 +1,13 @@
+---
+title: "Image-free three-dimensional human pose estimation based on single-pixel imaging with extremely low sampling rate"
+collection: publications
+category: manuscripts
+permalink: /publication/2026-pose
+excerpt: 'Propose an image-free 3D pose estimation method using single-pixel imaging and MIM-Pose architecture, achieving accurate prediction at ultra-low sampling rates without image reconstruction.'
+date: 2026-03-06
+venue: 'Optics and Lasers in Engineering, 201, 109715 (2026)'
+paperurl: 'https://doi.org/10.1016/j.optlaseng.2026.109715'
+citation: 'Y. Liu, X. Wu, C. Zhou, et al. "Image-free three-dimensional human pose estimation based on single-pixel imaging with extremely low sampling rate." Optics and Lasers in Engineering 201 (2026): 109715.'
+---
+This paper proposes an image-free 3D human pose estimation method based on single-pixel imaging (SPI) and deep learning. Using an arrayed SPI architecture modulated by Hadamard transform, the framework directly extracts 3D human pose information from 1D measurement signals at extremely low sampling rates, without full image reconstruction. Experiments on the Human3.6M dataset demonstrate accurate prediction at sampling rates as low as 2.56×10⁻⁴, with real-world validation at distances up to 30 m.
+```
