@@ -8,7 +8,7 @@ redirect_from:
 ---
 # About me
 
-I am a Master's student in **Electronic Information** at the [School of Physics](https://www.nenu.edu.cn/), **Northeast Normal University**, supervised by Prof. Cheng Zhou and Prof. Jipeng Huang. I received my B.Eng. in Electronic Information Engineering from **Chengdu University of Information Technology** in 2022.
+I am a Master's student in **Electronic Information** at the School of Physics, **Northeast Normal University**, supervised by Prof. Cheng Zhou and Prof. Jipeng Huang. I received my B.Eng. in Electronic Information Engineering from **Chengdu University of Information Technology** in 2022.
 
 My research interests lie in **computational imaging** and **optoelectronic sensing**, including:
 
