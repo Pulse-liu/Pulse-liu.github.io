@@ -17,6 +17,8 @@ My research interests lie in **computational imaging** and **optoelectronic sens
 - Image-free visual tasks driven by deep learning
 - Computer vision and embedded systems
 
+I have published 2 SCI-indexed papers as first and second author.
+
 # News
 
 - **Aug 2026** — Awarded "Outstanding Oral Presentation" at the 16th National Conference on Quantum Imaging (Suzhou).
@@ -30,5 +32,5 @@ My research interests lie in **computational imaging** and **optoelectronic sens
 
 # Contact
 
-- Email: liuys@nenu.edu.cn
+- Email: [liuys@nenu.edu.cn](mailto:liuys@nenu.edu.cn)
 - GitHub: [Pulse-liu](https://github.com/Pulse-liu)
